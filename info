@@ -25,6 +25,7 @@
       "price" : "1,200,000 vnd"
     }
   },
+  "Notify": "",
   "bank": {
     "MOMO": "ACB: 7070.331 | PHAM SY TRUONG",
     "VCB": "ACB: 7070.331 | PHAM SY TRUONG"
