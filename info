@@ -20,6 +20,10 @@
       "verion" : "2.1.0",
       "price" : "1,200,000 vnd"
     },
+    "CAV" : {
+      "verion" : "2.1.0",
+      "price" : "0 vnd"
+    },
     "FacebookBMAll" : {
       "verion" : "6.2.8",
       "price" : "1,200,000 vnd"
