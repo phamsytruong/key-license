@@ -4,6 +4,10 @@
       "verion" : "5.9.9",
       "price" : "1,000,000 vnd"
     },
+  "FacebookChangeAccountVIP" : {
+      "verion" : "5.9.9",
+      "price" : "0 vnd"
+    },
     "FacebookPageAll" : {
       "verion" : "2.2.5",
       "price" : "1,200,000 vnd"
