@@ -4,8 +4,12 @@
       "verion" : "5.9.9",
       "price" : "1,000,000 vnd"
     },
-  "FacebookChangeAccountVIP" : {
+   "FacebookChangeAccountVIP" : {
       "verion" : "5.9.9",
+      "price" : "0 vnd"
+    },
+  "MailHelper" : {
+      "verion" : "4.5.6",
       "price" : "0 vnd"
     },
     "FacebookPageAll" : {
