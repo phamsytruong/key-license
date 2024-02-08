@@ -1,54 +1,37 @@
 {
   "ToolList": {
-    "FacebookInfoChecker" : {
-      "verion" : "5.9.9",
-      "price" : "1,000,000 vnd"
+    "FacebookInfoChecker": {
+      "verion": "5.9.9",
+      "price": "..."
     },
-   "FacebookChangeAccountVIP" : {
-      "verion" : "5.9.9",
-      "price" : "0 vnd"
+    "FacebookChangeAccountVIP": {
+      "verion": "5.9.9",
+      "price": "0 vnd"
+    }
+    "FacebookPageAll": {
+      "verion": "2.2.5",
+      "price": "..."
     },
-  "MailHelper" : {
-      "verion" : "4.5.6",
-      "price" : "500,000 vnd"
+    "FacebookChangeTkqc": {
+      "verion": "2.1.0",
+      "price": "..."
     },
-"HotmailRegister" : {
-      "verion" : "9.8",
-      "price" : "500,000 vnd"
+    "FacebookSetCamp": {
+      "verion": "2.1.0",
+      "price": "..."
     },
-"HotmailChecker" : {
-      "verion" : "5.1",
-      "price" : "5.000,000 vnd"
+    "CAV": {
+      "verion": "2.1.0",
+      "price": "0 vnd"
     },
-
-    "FacebookPageAll" : {
-      "verion" : "2.2.5",
-      "price" : "1,200,000 vnd"
-    },
-    "FacebookUnlock282" : {
-      "verion" : "2.2.5",
-      "price" : "1,200,000 vnd"
-    },
-    "FacebookChangeTkqc" : {
-      "verion" : "2.1.0",
-      "price" : "1,200,000 vnd"
-    },
-    "FacebookSetCamp" : {
-      "verion" : "2.1.0",
-      "price" : "1,200,000 vnd"
-    },
-    "CAV" : {
-      "verion" : "2.1.0",
-      "price" : "0 vnd"
-    },
-    "FacebookBMAll" : {
-      "verion" : "6.2.8",
-      "price" : "1,200,000 vnd"
+    "FacebookBMAll": {
+      "verion": "6.2.8",
+      "price": ".."
     }
   },
   "Notify": "",
   "bank": {
-    "MOMO": "ACB: 7070.331 | PHAM SY TRUONG",
-    "VCB": "ACB: 7070.331 | PHAM SY TRUONG"
+    "MOMO": "...",
+    "VCB": "..."
   }
 }
